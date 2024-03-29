@@ -44,3 +44,10 @@ body {
   font-size: 15px;
   color: #7d889e;
 }
+
+.attribution{
+  position: absolute;
+  bottom: 50px;
+  text-align: center;
+  width: 100%;
+}
